@@ -1,0 +1,8 @@
+Celestia is a modular blockchain network that offers unprecedented flexibility and scalability. It is designed to support various blockchain applications, such as smart contracts, decentralized exchanges, and oracles, while maintaining security, scalability, and decentralization. Celestia's network consists of two layers: the base layer, responsible for ensuring the availability and validity of data, and the rollup layer, where the execution and settlement of transactions take place. The platform aims to be the first modular blockchain network, enabling anyone to deploy their own blockchain with minimal overhead.
+
+Celestia's native token is TIA, which plays a key role in the platform's utility and incentive mechanisms, including the consolidation process of emerging markets, payment for data storage, and staking rewards for the proof-of-stake consensus mechanism. The platform's data availability sampling and erasure encoding ensure accessible and intact data, providing a data-centric layer to security and efficiency.
+
+In addition, Celestia has integrated its data availability layer with Polygon Labs' chain development kit, aiming to reduce gas fees for Layer 2 projects using Polygon CDK, such as OKX, Immutable, Astar, IDEX, Palm Network, and others. This integration introduces a specialized data availability solution to Layer 2 projects using Polygon CDK, potentially reducing gas fees and contributing to the ecosystem of Layer 2 chains capable of interacting with one another.
+
+
+
